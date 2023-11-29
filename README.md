@@ -1,5 +1,5 @@
 [![Coverage](https://img.shields.io/codecov/c/github/seu-usuario/seu-repositorio)](https://codecov.io/gh/seu-usuario/seu-repositorio)
 [![Build Status](https://travis-ci.com/seu-usuario/seu-repositorio.svg?branch=main)](https://travis-ci.com/seu-usuario/seu-repositorio)
-[![Build Status](https://github.com/seu-usuario/seu-repositorio/workflows/CI/badge.svg)](https://github.com/seu-usuario/seu-repositorio/actions)
+[![Django Version](https://img.shields.io/badge/django-3.2-brightgreen.svg)](https://www.djangoproject.com/)
 [![Python Version](https://img.shields.io/badge/python-3.6%2B-blue)](https://www.python.org/downloads/)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
